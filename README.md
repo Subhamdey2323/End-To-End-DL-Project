@@ -7,9 +7,20 @@
 2. setup.py
 3. requirements.txt
 4. logging module
-5. utils module -->
+5. utils module 
+6. DATA INGESTION
+	i. config.yaml
+	ii. params.yaml --shoudn'n be empty
+	iii. constants->init.py
+	iv. st_01.ipynb
 
-## Workflows
+
+
+
+
+-->
+
+<!-- ## Workflows
 
 1. Update config.yaml
 2. Update secrets.yaml [Optional]
@@ -18,7 +29,7 @@
 5. Update the configuration manager in src config
 6. Update the components
 7. Update the pipeline 
-8. Update the main.py
+8. Update the main.py -->
 
 
 <!-- ### Dataset URL:
