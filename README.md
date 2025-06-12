@@ -21,12 +21,12 @@
 8. Update the main.py
 
 
-### Dataset URL:
-[Click here to download data](https://github.com/entbappy/Branching-tutorial/raw/master/cat-dog-data.zip)
+<!-- ### Dataset URL:
+[Click here to download data](https://github.com/entbappy/Branching-tutorial/raw/master/cat-dog-data.zip) -->
 
 
 
-# AWS-CICD-Deployment-with-Github-Actions
+<!-- # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
 
@@ -97,4 +97,4 @@
 
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = simple-app -->
