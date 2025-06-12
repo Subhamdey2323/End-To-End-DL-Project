@@ -13,6 +13,9 @@
 	ii. params.yaml --shoudn'n be empty
 	iii. constants->init.py
 	iv. st_01.ipynb
+	v. config_entity.py
+	vi. config->configuration.py
+	vi. data ingestion component
 
 
 
