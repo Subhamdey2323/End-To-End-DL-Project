@@ -16,6 +16,7 @@
 	v. config_entity.py
 	vi. config->configuration.py
 	vi. data ingestion component
+7. same continue for PREPARE BASE MODEL 
 
 
 
